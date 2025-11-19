@@ -1,0 +1,42 @@
+Copyright © 2025 Tecsa S3 Digital Group. Todos los derechos reservados.
+
+LICENCIA PROPIETARIA - DEMO REPOSITORY
+
+Este repositorio contiene una demostración del ecosistema TecsaS3. 
+El código fuente, documentación y todos los materiales incluidos están 
+protegidos por derechos de autor y son propiedad exclusiva de 
+Tecsa S3 Digital Group.
+
+TÉRMINOS DE USO:
+
+1. USO PERMITIDO:
+   ✅ Visualización y evaluación del código con fines demostrativos
+   ✅ Descarga local para pruebas en entorno de desarrollo
+   ✅ Ejecución de la demo en Docker para evaluación técnica
+
+2. USO NO PERMITIDO:
+   ❌ Distribución, redistribución o publicación del código
+   ❌ Uso comercial sin licencia explícita
+   ❌ Modificación y distribución como trabajo derivado
+   ❌ Extracción de componentes para uso en otros proyectos
+
+3. CONFIDENCIALIDAD:
+   Este código contiene información propietaria y confidencial.
+   Su acceso implica el compromiso de mantener su confidencialidad.
+
+4. GARANTÍA:
+   ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO.
+   EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+   DAÑO U OTRA RESPONSABILIDAD.
+
+LICENCIAMIENTO COMERCIAL:
+
+Para obtener una licencia comercial, implementación personalizada,
+o más información sobre el ecosistema completo TecsaS3:
+
+📧 Email: info@tecsas3.com
+💬 WhatsApp: +57 320 825 7798
+🌐 Web: https://www.digosystems.com
+
+© 2025 Tecsa S3 Digital Group
+Villavicencio, Colombia
