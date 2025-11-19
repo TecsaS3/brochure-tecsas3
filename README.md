@@ -231,7 +231,7 @@ graph LR
 ### 💻 **Backend**
 
 ```python
-# 🐍 Python Ecosystem
+# 🐍 GOlang + Python Ecosystem
 - Golang 1.25 
 - ORacle DB + PostgreSQL 14+ (Base de datos transaccional)
 - Redis (Cache y message broker)
