@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![TecsaS3 Logo](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=TecsaS3+Ecosistema+de+Salud+Digital)
+![TecsaS3 Logo](<img width="1088" height="960" alt="logoTecsaS3-Avatar" src="https://github.com/user-attachments/assets/6acabc11-b0fd-4d75-850a-c321fa3b4c80" />
+ 
 
 [![Technology Readiness Level](https://img.shields.io/badge/TRL-8--9-brightgreen?style=for-the-badge)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![HL7 FHIR](https://img.shields.io/badge/HL7-FHIR%20R4-orange?style=for-the-badge)](https://www.hl7.org/fhir/)
