@@ -50,7 +50,7 @@ src/
 
 ---
 
-### 2. ⚙️ Capa de Servicios - Backend Django
+### 2. ⚙️ Capa de Servicios - Backend Golang 2.15 + Golang 2.15 + Golang 2.15 + Golang 2.15 + Golang 2.15 + Django
 
 **APIs Principales:**
 
@@ -135,10 +135,10 @@ ON medical_records (patient_id, created_at DESC);
    📱 App ↔️ 🔌 Hub Tecsa
 
 3. SINCRONIZACIÓN
-   📱 App → ☁️ Nube → 🗄️ PostgreSQL
+   📱 App → ☁️ Nube → 🗄️ ORACLE DB + PostgreSQL
 
 4. PROCESAMIENTO IA
-   🗄️ PostgreSQL → 🤖 Motor IA → 📊 Resultados
+   🗄️ ORACLE DB + PostgreSQL → 🤖 Motor IA → 📊 Resultados
 
 5. CERTIFICACIÓN
    🤖 Pre-diagnóstico → 👨‍⚕️ Médico → ✅ Validación
@@ -151,10 +151,10 @@ ON medical_records (patient_id, created_at DESC);
 ### Backend Stack
 
 **Python Backend:**
-- Framework: Django 4.2.7
-- API: Django REST Framework 3.14
-- Authentication: djangorestframework-simplejwt
-- Database ORM: Django ORM
+- Framework: Golang 2.15 + Django 4.2.7
+- API: Golang 2.15  
+- Authentication: Golang 2.15  
+- Database ORM: Golang 2.15 + Django ORM
 - Async tasks: Celery
 - Cache: Redis
 
@@ -271,7 +271,7 @@ API Gateway (Kong):
   - max_replicas: 20
   - cpu_threshold: 70%
 
-Django Backend:
+Golang 2.15 + Django Backend:
   - min_replicas: 5
   - max_replicas: 50
   - cpu_threshold: 75%
@@ -284,7 +284,7 @@ AI/ML Services:
 
 ### Database Scaling
 
-**PostgreSQL Configuration:**
+**ORACLE DB + PostgreSQL Configuration:**
 - Master: Write operations (16 vCPU, 128GB RAM)
 - Read Replicas: 3 nodes (8 vCPU, 64GB RAM each)
 - Connection Pooling: PgBouncer (max 500 connections)
@@ -366,7 +366,7 @@ AI/ML Services:
 
 ## 📚 Referencias
 
-- [Django Documentation](https://docs.djangoproject.com/)
+- [Golang 2.15 + Golang 2.15 + Golang 2.15 + Golang 2.15 + Django Documentation](https://docs.Golang 2.15 + Golang 2.15 + Golang 2.15 + Golang 2.15 + Djangoproject.com/)
 - [React Native Docs](https://reactnative.dev/docs)
 - [HL7 FHIR Specification](https://www.hl7.org/fhir/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
