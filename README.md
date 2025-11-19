@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TecsaS3 Logo](<img width="1088" height="960" alt="logoTecsaS3-Avatar" src="https://github.com/user-attachments/assets/6acabc11-b0fd-4d75-850a-c321fa3b4c80" />
+(<img width="272" height="240" alt="logoTecsaS3-Avatar" src="https://github.com/user-attachments/assets/6acabc11-b0fd-4d75-850a-c321fa3b4c80" />
  
 
 [![Technology Readiness Level](https://img.shields.io/badge/TRL-8--9-brightgreen?style=for-the-badge)](https://en.wikipedia.org/wiki/Technology_readiness_level)
