@@ -118,7 +118,7 @@ graph TB
     end
 
     subgraph "💾 Capa de Datos"
-        D1[(🗄️ PostgreSQL)]
+        D1[(🗄️ Oracle DB)]
         D2[(📊 Data Warehouse)]
         D3[(⚡ Redis Cache)]
         D4[(📁 Object Storage)]
@@ -141,7 +141,7 @@ graph TB
 
 | Fase | Descripción | Tecnología Clave |
 |------|-------------|------------------|
-| **1️⃣ Planificación** | Creación de planes y asignación de microterritorios | Django + PostgreSQL |
+| **1️⃣ Planificación** | Creación de planes y asignación de microterritorios | Golang + Oracle |
 | **2️⃣ Campo** | Captura de datos médicos en modo offline | React Native + SQLite |
 | **3️⃣ Transmisión** | Sincronización segura con la nube | Hub Tecsa S3 + TLS 1.3 |
 | **4️⃣ Análisis IA** | Procesamiento y pre-diagnóstico automático | TensorFlow + PyTorch |
@@ -232,10 +232,8 @@ graph LR
 
 ```python
 # 🐍 Python Ecosystem
-- Django 4.2+ (Framework principal)
-- Django REST Framework (APIs RESTful)
-- Celery (Procesamiento asíncrono)
-- PostgreSQL 14+ (Base de datos transaccional)
+- Golang 1.25 
+- ORacle DB + PostgreSQL 14+ (Base de datos transaccional)
 - Redis (Cache y message broker)
 ```
 
@@ -470,8 +468,10 @@ pie title Distribución de Usuarios por Sector
 
 ```bash
 # 💻 Software requerido
+- Golang 1.25+
 - Python 3.11+
 - Node.js 18+
+- Oracle DB 25+
 - PostgreSQL 14+
 - Redis 7+
 - Docker 24+ (opcional)
