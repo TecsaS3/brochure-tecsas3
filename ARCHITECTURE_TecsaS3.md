@@ -366,7 +366,7 @@ AI/ML Services:
 
 ## 📚 Referencias
 
-- [Golang 2.15 + Golang 2.15 + Golang 2.15 + Golang 2.15 + Django Documentation](https://docs.Golang 2.15 + Golang 2.15 + Golang 2.15 + Golang 2.15 + Djangoproject.com/)
+- [Golang 2.15  + Django Documentation](https://docs.Golang 2.15 + Djangoproject.com/)
 - [React Native Docs](https://reactnative.dev/docs)
 - [HL7 FHIR Specification](https://www.hl7.org/fhir/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
